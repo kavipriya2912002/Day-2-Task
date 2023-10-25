@@ -1,0 +1,1 @@
+This contains the information about the Document Object and Window Object.
